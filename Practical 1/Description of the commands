@@ -2,7 +2,7 @@ Some basic Linux commands are:
 1) ls = It will display the list of files and the directories.
 2) ls -l =Displays the details of files.
 3) ls -la =It will display the hidden files as well.
-4) pwd =present word directory(shows your current path.
+4) pwd =present word directory shows your current path.
 5) cd .. = changes directory to the previous directory.
 6) cd = changes directory to the next directory.
 7) mkdir <filename> = Make directory(creates a new folder).
